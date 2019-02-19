@@ -13,7 +13,7 @@ My roadmap for study Data Science
 | :---: | --- | :---: |
 | [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **ToDo** |
 | [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | **ToDo** |
-| [Stepik](https://stepik.org/course/67) | Программирование на Python | **ToDo** |
+| [Stepik](https://stepik.org/course/67) | Программирование на Python | **COMPLETED** |
 | [Udemy](https://www.udemy.com/complete-python-bootcamp/) | Complete Python Bootcamp: Go from zero to hero in Python 3 | **ToDo** |
 #### Books
 | Title | Author | Status |
